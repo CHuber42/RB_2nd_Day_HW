@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RB_Jan_26_HW</string>
+    <string name="headline">Puerto Rice Power Outage</string>
+    <string name="top_coverage">Top coverage</string>
+    <string name="articleTitle1">Puerto Rico back in darkness after island-wide blackout</string>
+    <string name="articleTitle2">Puerto Rice loses power island-wide for first time since Hurricane Maria hit U.S. territory</string>
+    <string name="articleTitle3">Puerto Rico suffers island-wide power outage</string>
+
+    <string name="postingTime1">1 hour ago</string>
+    <string name="postingTime2">3 hours ago</string>
+    <string name="postingTime3">4 hour ago</string>
+</resources>
